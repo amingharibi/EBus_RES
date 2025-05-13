@@ -1,2 +1,3 @@
-"# EBus_RES" 
-"# EBus_RES" 
+# Harmonizing Electric Buses and Renewables: Holistic Optimal Scheduling and Sizing
+
+The article "Harmonizing Electric Buses and Renewables: Holistic Optimal Scheduling and Sizing" explores the integration of electric buses with renewable energy sources, focusing on the optimal scheduling and sizing of the system. It presents a MATLAB-based solution for determining the best way to coordinate the charging of electric buses with the fluctuating supply of renewable energy, such as solar and wind. By optimizing both the size of the renewable energy system and the scheduling of charging times, the paper aims to reduce costs, improve energy efficiency, and enhance the sustainability of electric bus fleets. The proposed methodology considers various factors, such as energy demand, renewable generation profiles, and charging infrastructure, and it highlights the potential for reducing carbon emissions and operational costs in public transportation systems.
